@@ -22,7 +22,7 @@ body {
     position: relative;
     width: 320px;
     height: 450px;
-    background-color: #232323;
+    background-color: #3e2020;
     border-radius: 20px;
     overflow: hidden;
 }
@@ -46,12 +46,12 @@ body {
 .container .card:after {
     content: "Nike";
     position: absolute;
-    top: 30%;
-    left: -20%;
-    font-size: 12em;
+    top: 40%;
+    left: -10%;
+    font-size: 10em;
     font-weight: 800;
     font-style: italic;
-    color: rgba(255, 255, 255, 0.04);
+    color: rgba(209, 17, 17, 0.401);
 }
 
 .container .card .imgBx {
